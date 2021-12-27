@@ -6,6 +6,7 @@ defmodule MetaweatherProject do
   It will then take todays forcast and the next five days max temps and average them.
   """
 
+
   @doc """
   This is the main function that creates the tasks and makes the function calls with the location ids.
   Call this to run the example
